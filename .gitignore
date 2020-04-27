@@ -3,6 +3,10 @@
 # My additions - Insert additions for this project here
 Butler_Bootcamp_Install_Guides.docx
 
+# Temporary Folder/Files in local folder only
+LocalFolderOnly/
+*/.LocalFolderOnly/*
+
 # API Keys
 config.js
 config.py
