@@ -11,6 +11,11 @@ A data analysis attempting to explain a reduction in the bee population
 
 ## Data Analysis
 - questions trying to answer here
+* Honey production by county
+* Honey value by state
+* Indiana honey production by county
+* coorelate almond production to decrease in bee production
+* 
 
 ## HTML / CSS
 - insert image
