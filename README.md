@@ -1,10 +1,11 @@
 # Do We Have a Plan BEE? A Machine Learning Study
 A data analysis attempting to explain a reduction in the bee population
+- insert image from website we create
 
 ## Obtain Data
 - insert image from USDA
 
-## *E*xtract*C*lean*L*oad the data
+## **E**xtract**C**lean**L**oad the data
 - Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
 - insert image - section of code showing ETL
 
