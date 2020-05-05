@@ -1,6 +1,31 @@
 # Do We Have a Plan BEE? A Machine Learning Study
 A data analysis attempting to explain a reduction in the bee population
 
+## Obtain Data
+- insert image from USDA
+
+## *E*xtract*C*lean*L*oad the data
+- Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
+- insert image - section of code showing ETL
+
+## Data Analysis
+- questions trying to answer here
+
+## HTML / CSS
+- insert image
+
+## Machine Learning
+- insert image
+
+## Tableau
+- insert image
+
+## Deploy the site to go live
+- insert image
+
+## Conclusions
+- killing bees is bad
+- almond growth
 
 - - -
 ## Tools Used
