@@ -19,8 +19,8 @@ A data analysis attempting to explain a reduction in the bee population
 
 ## Authors
 
-* **Ben Reiff** - **[benreiff](https://github.com/benreiff)
-* **Chelsea Snedden** = [chelseasnedden](https://github.com/chelseasnedden)
+* **Ben Reiff** - **[benreiff](https://github.com/benreiff)**
+* **Chelsea Snedden** = **[chelseasnedden](https://github.com/chelseasnedden)**
 * **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776)**
 * **Morgan Bricker** - **[bricker3k](https://github.com/benreiff)**
 
