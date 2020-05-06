@@ -97,10 +97,10 @@ A data analysis attempting to explain a reduction in the bee population
 
 - after each person add the job responsibilies they had
 
-* **Ben Reiff** - **[benreiff](https://github.com/benreiff)**
-* **Chelsea Snedden** - **[chelseasnedden](https://github.com/chelseasnedden)**
-* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776)**
-* **Morgan Bricker** - **[bricker3k](https://github.com/benreiff)**
+* **Ben Reiff** - **[benreiff](https://github.com/benreiff "GitHub for Ben Reiff")**
+* **Chelsea Snedden** - **[chelseasnedden](https://github.com/chelseasnedden "GitHub for Chelsea Snedden")**
+* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776 "GitHub for Michael Davis")**
+* **Morgan Bricker** - **[bricker3k](https://github.com/benreiff "GitHub for Morgan Bricker")**
 
 
 ## Acknowledgments
@@ -110,10 +110,10 @@ A data analysis attempting to explain a reduction in the bee population
 * 
 * 
 * [Tableau](https://www.tableau.com/ "Tableau Homepage") was used to create the data visualizations.
-* [Plotly.js documentation](https://plot.ly/javascript/) was used to help build the plots.
-* [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education) and instructors for assistance.
+* [Plotly.js documentation](https://plot.ly/javascript/ "Plot.ly") was used to help build the plots.
+* [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education "Butler University Executive Education program") and instructors for assistance.
 * Hat tip to Triology Education Services for providing the challenge guidelines.
-* Partially inspired by the Oscar nominated documentary [HoneyLand](https://www.imdb.com/title/tt8991268/)
+* Partially inspired by the Oscar nominated documentary [HoneyLand](https://www.imdb.com/title/tt8991268/ "IMDB's Honeyland page")
 
 
 ## Copyright
