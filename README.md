@@ -1,4 +1,5 @@
-# Do We Have a Plan BEE? A Machine Learning Study
+# <p align="center">Do We Have a Plan BEE? A Machine Learning Study</p>
+
 A data analysis attempting to explain a reduction in the bee population
 - insert image from website we create
 
@@ -44,7 +45,11 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## HTML / CSS
-- insert image
+
+<p align="center">
+  <img width="600" height="200" src="images\HTML_CSS_Code_Screen_Shot.jpeg?raw=true)">
+</p>
+
 
 ## Machine Learning
 - insert image
