@@ -46,7 +46,7 @@ A data analysis attempting to explain a reduction in the bee population
 
 ## HTML / CSS
 
-<p align="center"> ![HTML CSS Code Screen Shot](images\HTMLCSSCodeScreenShot.jpeg) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images\HTMLCSSCodeScreenShot.jpeg) </p>
 
 
 ## Machine Learning
