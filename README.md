@@ -7,7 +7,9 @@ A data analysis attempting to explain a reduction in the bee population
 * 
 
 ## Obtain Data
-- insert image from USDA
+
+# <p align="center"> ![HTML CSS Code Screen Shot](images/USDAscreenShot.png) </p>
+
 
 ## **E**xtract**T**ransform**L**oad (ETL) the data
 - Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
