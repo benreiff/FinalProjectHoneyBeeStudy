@@ -3,17 +3,15 @@
 A data analysis attempting to explain a reduction in the bee population
 - insert image from website we create
 
+
 ## Questions to Answer?
 * 
+
 
 ## Obtain Data
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/USDAscreenShot.png) </p>
 
-
-## **E**xtract**T**ransform**L**oad (ETL) the data
-- Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
-- insert image - section of code showing ETL
 
 ## Data Sets to Collect (2017, 2012, 2007, 2002 - census years)
 * Honey production by state
@@ -35,6 +33,12 @@ A data analysis attempting to explain a reduction in the bee population
 * Acres bearing almonds by state
 * Acres bearing almonds by county
 * Indiana Acres bearing almonds by county
+
+
+## **E**xtract**T**ransform**L**oad (ETL) the data
+- Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
+- insert image - section of code showing ETL
+
 
 ## Analysis to Run
 * Change in honey production by state
@@ -60,15 +64,19 @@ A data analysis attempting to explain a reduction in the bee population
 - if using linear regression, use lots of scatter plots and lines
 - multi-regression (a lot vs. one)
 
+
 ## Tableau
 - insert image
+
 
 ## Deploy the site to go live
 - insert image
 
+
 ## Conclusions
 - killing bees is bad
 - almond growth
+
 
 - - -
 ## Tools Used
@@ -107,5 +115,7 @@ A data analysis attempting to explain a reduction in the bee population
 * Hat tip to Triology Education Services for providing the challenge guidelines.
 * Partially inspired by the Oscar nominated documentary [HoneyLand](https://www.imdb.com/title/tt8991268/)
 
+
 ## Copyright
 Ben Reiff, Chelsea Snedden, Michael R. Davis, Morgan Bricker © 2020. All Rights Reserved.
+- - -
