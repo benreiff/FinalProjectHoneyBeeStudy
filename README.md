@@ -2,26 +2,58 @@
 A data analysis attempting to explain a reduction in the bee population
 - insert image from website we create
 
+## Questions to Answer?
+* 
+
 ## Obtain Data
 - insert image from USDA
 
-## **E**xtract**C**lean**L**oad the data
+## **E**xtract**T**ransform**L**oad (ETL) the data
 - Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
 - insert image - section of code showing ETL
 
-## Data Analysis
-- questions trying to answer here
+## Data Sets to Collect (2017, 2012, 2007, 2002 - census years)
+* Honey production by state
 * Honey production by county
-* Honey value by state
 * Indiana honey production by county
-* coorelate almond production to decrease in bee production
-* 
+
+* Honey value by state
+* Honey value by county
+* Indiana honey value by county
+
+* Bee colony inventory by state
+* Bee conony inventory by county
+* Indiana bee colony inventory by county
+
+* Bee colony loss by state
+* Bee conony loss by county
+* Indiana bee colony loss by county
+
+* Acres bearing almonds by state
+* Acres bearing almonds by county
+* Indiana Acres bearing almonds by county
+
+## Analysis to Run
+* Change in honey production by state
+* Change in honey value by state from
+* Change in bee colony inventory from
+* Change in bee colony loss from
+* Change in acres bearing almonds
+
+* Coorelate almond production to decrease in bee production
+
 
 ## HTML / CSS
 - insert image
 
 ## Machine Learning
 - insert image
+- supervised vs unsupervised - why we choose one technique over the other?
+- do not overfit or underfit the data
+- need a measure of fitness (R2)
+- understand difference between precision and accuracy
+- if using linear regression, use lots of scatter plots and lines
+- multi-regression (a lot vs. one)
 
 ## Tableau
 - insert image
@@ -42,13 +74,15 @@ A data analysis attempting to explain a reduction in the bee population
 * CSS
 * Tableau
 * GitHub and GitHub Pages
-* 
+* for ML ??
 * 
 * 
 * 
 
 
 ## Authors
+
+- after each person add the job responsibilies they had
 
 * **Ben Reiff** - **[benreiff](https://github.com/benreiff)**
 * **Chelsea Snedden** - **[chelseasnedden](https://github.com/chelseasnedden)**
