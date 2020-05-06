@@ -105,11 +105,11 @@ A data analysis attempting to explain a reduction in the bee population
 
 ## Acknowledgments
 
-* Data Source: [United States Department of Agriculture (USDA)](https://quickstats.nass.usda.gov/)
+* Data Source: [United States Department of Agriculture (USDA)](https://quickstats.nass.usda.gov/ "USDA Quickstats")
 * Data Source:
 * 
 * 
-* [Tableau](https://www.tableau.com/) was used to create the data visualizations.
+* [Tableau](https://www.tableau.com/ "Tableau Homepage") was used to create the data visualizations.
 * [Plotly.js documentation](https://plot.ly/javascript/) was used to help build the plots.
 * [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education) and instructors for assistance.
 * Hat tip to Triology Education Services for providing the challenge guidelines.
