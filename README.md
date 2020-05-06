@@ -1,4 +1,4 @@
-# <p align="center">Do We Have a Plan BEE? A Machine Learning Study</p>
+# <p align="center">Do We Have a Plan BEE? :bee: A Machine Learning Study</p>
 
 A data analysis attempting to explain a reduction in the bee population
 - insert image from website we create
