@@ -1,0 +1,18 @@
+{
+  "name": "bee_study",
+  "version": "1.0.0",
+  "description": "Landing page for bee_study",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Morgan",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.0",
+    "live-server": "^1.2.1"
+  }
+}
