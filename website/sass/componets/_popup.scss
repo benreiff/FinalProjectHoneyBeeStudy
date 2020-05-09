@@ -1,0 +1,50 @@
+.popup{
+    height: 200vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba($color-black, .8);
+    z-index: 9999;
+
+    display:none;
+
+
+    &__content {
+        @include absCenter;
+        width: 75%;
+        height: 50rem;
+        background-color: $color-white;
+        box-shadow: 0 2rem 4rem rgba($color-black, .2);
+        overflow: hidden;
+
+    }
+
+    &__close:link, 
+    &:visited {
+        color: #777;
+        position: absolute;
+        top: 2.5rem;
+        right: 2.5rem;
+        font-size: 3rem;
+        text-decoration: none;
+        display: inline-block;
+        -webkit-transition: all .2s;
+        transition: all .2s;
+        line-height: 1;
+    }
+
+    &::after, 
+    &::before {
+        margin: 0;
+        padding: 0;
+        -webkit-box-sizing: inherit;
+        box-sizing: inherit;
+    }
+
+    &__text {
+        font-size: 1.4rem;
+        margin-bottom: 4rem;
+        hyphens: auto;
+    }
+}
