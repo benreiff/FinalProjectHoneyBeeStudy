@@ -149,9 +149,6 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
-# Node project dependencies and settings
-node_modules/
-
 # Custom temp file
 deleteme
 
