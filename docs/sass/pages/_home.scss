@@ -2,6 +2,10 @@
   background-color: $color-grey-light-1;
   padding: 25rem 0;
   margin-top: -20vh;
+
+  @include respond (tab-port) {
+    padding: 20rem 0;
+  }
 }
 
 .section-features {
@@ -11,19 +15,32 @@
       rgba($color-primary-light, 0.596),
       rgba($color-primary-dark, 0.596)
     ),
-    url(../img/white_flower_bee.jpg);
+    url(../img/nat-4.jpg);
   background-size: cover;
+
+
+  @include respond (tab-port) {
+    padding: 17rem 0;
+  }
 }
 
 .section-tours {
   background-color: $color-grey-light-1;
-  padding: 18rem 0;
+  padding: 18rem 0 1rem 0;
   margin-top: -2rem;
+
+  @include respond (tab-port) {
+    padding: 12rem 0;
+  }
 }
 
 .section-stories {
   position: relative;
   padding: 15rem 0;
+
+  @include respond (tab-port) {
+    padding: 10rem 0;
+  }
 }
 
 .section-book {
@@ -33,6 +50,8 @@
     $color-primary-light,
     $color-primary-dark
   );
+
+  
 }
 
 .book {

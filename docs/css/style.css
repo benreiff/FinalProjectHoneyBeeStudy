@@ -114,6 +114,7 @@ body {
 
 .heading-secondary {
   font-size: 3.5rem;
+  padding-bottom: 10px;
   text-transform: uppercase;
   font-weight: 700;
   background-image: linear-gradient(to right, #7ed56f, #28b485);
@@ -147,9 +148,15 @@ body {
 
 .u-margin-bottom-big {
   margin-bottom: 5rem !important; }
+  @media (max-width: 56.25em) {
+    .u-margin-bottom-big {
+      margin-bottom: 3rem !important; } }
 
 .u-margin-bottom-medium {
   margin-bottom: 4rem !important; }
+  @media (max-width: 56.25em) {
+    .u-margin-bottom-medium {
+      margin-bottom: 2rem !important; } }
 
 .u-margin-bottom-small {
   margin-bottom: 1.5rem !important; }
@@ -335,15 +342,32 @@ body {
     z-index: 10;
     transition: all .2s;
     outline-offset: 2rem; }
+    @media (max-width: 56.25em) {
+      .composition__photo {
+        float: left;
+        position: relative;
+        width: 25%;
+        box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.2);
+        overflow: hidden; } }
     .composition__photo--p1 {
       left: 0;
       top: -3rem; }
+      @media (max-width: 56.25em) {
+        .composition__photo--p1 {
+          top: 0; } }
     .composition__photo--p2 {
       right: 0;
       top: 3rem; }
+      @media (max-width: 56.25em) {
+        .composition__photo--p2 {
+          top: 0; } }
     .composition__photo--p3 {
       left: 20%;
       top: 12rem; }
+      @media (max-width: 56.25em) {
+        .composition__photo--p3 {
+          top: 0;
+          left: 0; } }
     .composition__photo:hover {
       outline: 1.5rem solid #55c57a;
       transform: scale(1.05);
@@ -354,7 +378,7 @@ body {
 
 .feature-box {
   background-color: rgba(255, 255, 255, 0.8);
-  font-size: 1.5rem;
+  font-size: 2rem;
   padding: 2rem;
   text-align: center;
   border-radius: 5px;
@@ -540,6 +564,9 @@ body {
   .footer__logo-box {
     text-align: center;
     margin-bottom: 4rem; }
+    @media (max-width: 56.25em) {
+      .footer__logo-box {
+        margin-bottom: 5rem; } }
   .footer__logo {
     width: 15rem;
     height: auto; }
@@ -767,20 +794,32 @@ body {
   background-color: #f7f7f7;
   padding: 25rem 0;
   margin-top: -20vh; }
+  @media (max-width: 56.25em) {
+    .section-about {
+      padding: 20rem 0; } }
 
 .section-features {
   padding: 22rem 0;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.596), rgba(40, 180, 133, 0.596)), url(../img/white_flower_bee.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.596), rgba(40, 180, 133, 0.596)), url(../img/nat-4.jpg);
   background-size: cover; }
+  @media (max-width: 56.25em) {
+    .section-features {
+      padding: 17rem 0; } }
 
 .section-tours {
   background-color: #f7f7f7;
-  padding: 18rem 0;
+  padding: 18rem 0 1rem 0;
   margin-top: -2rem; }
+  @media (max-width: 56.25em) {
+    .section-tours {
+      padding: 12rem 0; } }
 
 .section-stories {
   position: relative;
   padding: 15rem 0; }
+  @media (max-width: 56.25em) {
+    .section-stories {
+      padding: 10rem 0; } }
 
 .section-book {
   padding: 15rem 0;
