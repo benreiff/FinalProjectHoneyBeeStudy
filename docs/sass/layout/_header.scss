@@ -10,6 +10,14 @@
     background-position-x: top;
     position: relative;
     clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+
+    @include respond (tab-port) {
+      clip-path: none;
+    }
+
+    @include respond (phone) {
+      clip-path: none;
+    }
   
     &__logo-box {
       position: absolute;
