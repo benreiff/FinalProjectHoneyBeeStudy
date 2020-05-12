@@ -11,11 +11,11 @@ body {
   color: $color-white;
   text-transform: uppercase;
   backface-visibility: hidden;
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
 
   &--main {
     display: block;
-    font-size: 5rem;
+    font-size: 6rem;
     font-weight: 4250;
     letter-spacing: 1.7rem;
     animation: moveInLeft;
@@ -25,7 +25,7 @@ body {
 
   &--sub {
     display: block;
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 400;
     letter-spacing: 1.2rem;
     animation: moveInRight 2s ease-out;
