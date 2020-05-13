@@ -279,11 +279,11 @@ body {
     background-blend-mode: screen;
     clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%); }
     .card__picture--1 {
-      background-image: url(/img/nat-5.jpg); }
+      background-image: url(/img/bee_wing_span.jpg); }
     .card__picture--2 {
-      background-image: url(/img/nat-6.jpg); }
+      background-image: url(/img/beeface.jpg); }
     .card__picture--3 {
-      background-image: url(/img/nat-7.jpg); }
+      background-image: url(/img/fuzzybee.jpg); }
   .card__heading {
     font-size: 2.8rem;
     font-weight: 300;
@@ -346,7 +346,7 @@ body {
       .composition__photo {
         float: left;
         position: relative;
-        width: 25%;
+        width: 33.3333%;
         box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.2);
         overflow: hidden; } }
     .composition__photo--p1 {
@@ -800,7 +800,7 @@ body {
 
 .section-features {
   padding: 22rem 0;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.596), rgba(40, 180, 133, 0.596)), url(../img/nat-4.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.596), rgba(40, 180, 133, 0.596)), url(../img/beeface.jpg);
   background-size: cover; }
   @media (max-width: 56.25em) {
     .section-features {
@@ -826,7 +826,7 @@ body {
   background-image: linear-gradient(to right bottom, #7ed56f, #28b485); }
 
 .book {
-  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(/img/nat-10.jpg);
+  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(/img/honeycomb_wide.jpg);
   background-size: 100%;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2);
