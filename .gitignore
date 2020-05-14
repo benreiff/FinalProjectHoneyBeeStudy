@@ -183,6 +183,3 @@ __pypackages__/
 
 # SageMath parsed files
 *.sage.py
-
-# Node Modules file
-node_modules/
