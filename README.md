@@ -76,12 +76,10 @@ A data analysis attempting to explain a reduction in the U.S. bee population
   - Coefficient of Determination (R^2) - how differences in one variable can be explained by a difference in the second variable
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Honey_LR.PNG) </p>
-
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Colony_LR.PNG) </p>
-
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Almond_LR.PNG) </p>
 
-This notebook incorporates elements from Scikit Machine Learning Documentation, Homemade Machine Learning Repository, and Sklearn Multiple Linear Regression.
+This notebook incorporates elements from Scikit Machine Learning documentation, Homemade Machine Learning Repository, and Sklearn Multiple Linear Regression.
 
 About Training and Testing:
   - Training data is used for training of our linear model to form an accurate regressive analysis.
