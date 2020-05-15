@@ -66,18 +66,26 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 
 
 ## Machine Learning
-- Supervised vs unsupervised - why we choose one technique over the other?
-- Do not overfit or underfit the data
-- Need a measure of fitness (R2)
-- Understand difference between precision and accuracy
-- If using linear regression, use lots of scatter plots and lines
-- Multi-regression (a lot vs. one)
+- We chose to perform a linear regression analysis on our datasets.
+- Linear regression can show the relationship between variables (independent and dependent) and allows for forecasting the future, given those trends.
+- Linear regression calculates a prediction value based on independent variables and is the most common form of machine learning.
+
+- We will be looking at:
+  - Correlation Coefficient - a measure that determines the degree to which the movement of our two variables will be associated
+  - Mean Squared Error - the average squared difference between the estimated values and the actual value
+  - Coefficient of Determination (R^2) - how differences in one variable can be explained by a difference in the second variable
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Honey_LR.PNG) </p>
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Colony_LR.PNG) </p>
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Almond_LR.PNG) </p>
+
+This notebook incorporates elements from Scikit Machine Learning Documentation, Homemade Machine Learning Repository, and Sklearn Multiple Linear Regression.
+
+About Training and Testing:
+  - Training data is used for training of our linear model to form an accurate regressive analysis.
+  - Testing data will be used for validating our model.
 
 
 ## Deploy the Site
