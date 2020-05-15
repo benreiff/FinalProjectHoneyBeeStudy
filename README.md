@@ -72,9 +72,9 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 - If using linear regression, use lots of scatter plots and lines
 - Multi-regression (a lot vs. one)
 
-# <p align="center"> ![HTML CSS Code Screen Shot](images/Honey_Prod_LR.PNG) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Honey_LR.PNG) </p>
 
-# <p align="center"> ![HTML CSS Code Screen Shot](images/Bee_Colony_LR.PNG) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Colony_LR.PNG) </p>
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Almond_LR.PNG) </p>
 
