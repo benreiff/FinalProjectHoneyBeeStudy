@@ -24,6 +24,7 @@ A data analysis attempting to explain a reduction in the bee population
 * Bee colony loss by state, county, and Indiana county
 * Acres bearing almonds by state
 
+# <p align="center"> ![HTML CSS Code Screen Shot]images/Honey production Pandas screenshot 1.JPG) </p>
 
 ## **E**xtract**T**ransform**L**oad (ETL) the data
 - Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
@@ -56,16 +57,18 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## Tableau
-- insert image
+
 # <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
-## Deploy the site to go live
-- insert image
 
+## Deploy the site to go live
+
+# <p align="center"> ![HTML CSS Code Screen Shot](images/GitHub_Pages_settings.JPG) </p>
 
 ## Conclusions
-- killing bees is bad
-- almond growth
+- As almond production has gone up, honey production has gone down
+- As honey production has gone down, honey value has gone up
+
 
 
 - - -
