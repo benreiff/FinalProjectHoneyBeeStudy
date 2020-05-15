@@ -5,7 +5,11 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## Questions to Answer?
-* 
+* Over the last 30 years, is bee production increasing or decreasing?
+* Over the last 30 years, is the value of honey production increasing or decreasing?
+* What are the top producing honey production states and counties?
+* What are the top producting honey production counites in Indiana?
+* Has almond acres bearings changed as honey production has changed?
 
 
 ## Obtain Data
@@ -14,31 +18,17 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## Data Sets to Collect (2017, 2012, 2007, 2002 - census years)
-* Honey production by state
-* Honey production by county
-* Indiana honey production by county
-
-* Honey value by state
-* Honey value by county
-* Indiana honey value by county
-
-* Bee colony inventory by state
-* Bee conony inventory by county
-* Indiana bee colony inventory by county
-
-* Bee colony loss by state
-* Bee conony loss by county
-* Indiana bee colony loss by county
-
+* Honey production by state, county, and Indiana county
+* Honey value by state, county, and Indiana county
+* Bee colony inventory by state, county, and Indiana county
+* Bee colony loss by state, county, and Indiana county
 * Acres bearing almonds by state
-* Acres bearing almonds by county
-* Indiana Acres bearing almonds by county
 
 
 ## **E**xtract**T**ransform**L**oad (ETL) the data
 - Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
 - insert image - section of code showing ETL
-
+# <p align="center"> ![HTML CSS Code Screen Shot](images/ETL_image.png) </p>
 
 ## Analysis to Run
 * Change in honey production by state
@@ -67,7 +57,7 @@ A data analysis attempting to explain a reduction in the bee population
 
 ## Tableau
 - insert image
-
+# <p align="center"> ![HTML CSS Code Screen Shot](images\IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
 ## Deploy the site to go live
 - insert image
