@@ -17,9 +17,6 @@ A data analysis attempting to explain a reduction in the bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/USDAscreenShot.png) </p>
 
 - Data from the USGS is grouped into two programs, with the Census program being more robust:
-    
-    1. item
-    
     <ol start="1">
         <li>Census - collected once every five years (2017, 2012, 2007, 2002).</li>
         <li>Survey - collected every year since 1987.</li>
@@ -66,6 +63,12 @@ A data analysis attempting to explain a reduction in the bee population
 - If using linear regression, use lots of scatter plots and lines
 - Multi-regression (a lot vs. one)
 
+# <p align="center"> ![HTML CSS Code Screen Shot](images\Honey_Prod_LR.PNG) </p>
+
+# <p align="center"> ![HTML CSS Code Screen Shot](images\Bee_Colony_LR.PNG) </p>
+
+# <p align="center"> ![HTML CSS Code Screen Shot](images\Almond_LR.PNG) </p>
+
 
 ## Tableau
 - A **[Tableau Story](https://public.tableau.com/profile/michael.davis5317#!/vizhome/Do_We_Have_A_Plan_Bee/HoneyStory?publish=yes)** was created that consists of nine different dashboards, which are all incorporated into one easy to understand story.
@@ -75,15 +78,20 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## Deploy the Site
-- A custom domain **[DoWeHaveAPlan.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
+- A custom domain **[DoWeHaveAPlanBee.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/GitHub_Pages_settings.JPG) </p>
 
 
 ## Conclusions
-- As almond production has gone up, honey production has gone down
-- As honey production has gone down, honey value has gone up
-- North and South Dakota account for nearly one-third of all honey production in the United States
+- As honey production (lbs) in the United States has declined 33.4% over the last 30 years, honey value ($) has increased by 161.1%.
+- North and South Dakota are the top 2 honey producing states, accounting for 34% of the countries
+	production in 2019.
+- 5 of the 7 highest honey producing counties are in North Dakota
+- In 2019, Indiana ranked 31st in honey production.
+- From a high of 1.89 million pounds of honey produced in 1987, Indiana's honey production fell 73.7% in 
+2019 with just 495,000 pounds produced.
+- Almond bearing acres has increased every year since nationwide data started being collected in 2007.
 
 
 - - -
