@@ -10,6 +10,9 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 - What are the top honey producing states and counties?
 - What are the top honey producing counties in Indiana?
 - Has almond acres bearings changed as honey production has changed?
+- What is the future outlook for bee colonies in the United States based on Year?
+- What is the future outlook for almond production in the United States?
+- What is the financial future of honey?
 
 
 ## Data Sets to Collect
