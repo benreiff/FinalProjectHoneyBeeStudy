@@ -17,7 +17,9 @@ A data analysis attempting to explain a reduction in the bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/USDAscreenShot.png) </p>
 
 - Data from the USGS is grouped into two programs, with the Census program being more robust:
+    
     1. item
+    
     <ol start="1">
         <li>Census - collected once every five years (2017, 2012, 2007, 2002).</li>
         <li>Survey - collected every year since 1987.</li>
