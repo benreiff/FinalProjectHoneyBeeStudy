@@ -12,23 +12,22 @@ A data analysis attempting to explain a reduction in the bee population
 - Has almond acres bearings changed as honey production has changed?
 
 
-## Obtain Data
+## Data Sets to Collect
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/USDAscreenShot.png) </p>
 
-
-## Data Sets to Collect (2017, 2012, 2007, 2002 - census years)
 - Data from the USGS is grouped into two programs, with the Census program being more robust:
+    1. item
     <ol start="1">
-        <li>Census - collected once every five years (2017, 2012, 2007, 2002)</li>
+        <li>Census - collected once every five years (2017, 2012, 2007, 2002).</li>
         <li>Survey - collected every year since 1987.</li>
     </ol>
 
-- Honey production by state, county, and Indiana county
-- Honey value by state, county, and Indiana county
-- Bee colony inventory by state, county, and Indiana county
-- Bee colony loss by state, county, and Indiana county
-- Acres bearing almonds by state
+- Honey production by U.S., state, and county (including all 92 Indiana counties).
+- Honey value by U.S., state, and county (including all 92 Indiana counties).
+- Bee colony inventory by U.S., state, and county (including all 92 Indiana counties).
+- Bee colony loss by U.S., state, and county (including all 92 Indiana counties).
+- Acres bearing almonds by U.S. and state.
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/HoneyProductionPandasScreenshot1.JPG) </p>
 
@@ -73,7 +72,7 @@ A data analysis attempting to explain a reduction in the bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
 
-## Deploy the Site to Go Live
+## Deploy the Site
 - A custom domain **[DoWeHaveAPlan.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/GitHub_Pages_settings.JPG) </p>
