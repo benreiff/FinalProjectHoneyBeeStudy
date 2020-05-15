@@ -67,14 +67,14 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## Tableau
-- A **![Tableau Story](https://public.tableau.com/profile/michael.davis5317#!/vizhome/Do_We_Have_A_Plan_Bee/HoneyStory?publish=yes)** was created that consists of nine different dashboards, which are all incorporated into one easy to understand story.
+- A **[Tableau Story](https://public.tableau.com/profile/michael.davis5317#!/vizhome/Do_We_Have_A_Plan_Bee/HoneyStory?publish=yes)** was created that consists of nine different dashboards, which are all incorporated into one easy to understand story.
 - Our story is a combination of graphs, charts, and interactive maps.
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
 
 ## Deploy the Site to Go Live
-- A custom domain **![DoWeHaveAPlan.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
+- A custom domain **[DoWeHaveAPlan.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/GitHub_Pages_settings.JPG) </p>
 
