@@ -61,7 +61,7 @@ A data analysis attempting to explain a reduction in the bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
 
-## Deploy the site to go live
+## Deploy the Site to Go Live
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/GitHub_Pages_settings.JPG) </p>
 
@@ -90,21 +90,18 @@ A data analysis attempting to explain a reduction in the bee population
 
 ## Authors
 
-- after each person add the job responsibilies they had
-
-* **Ben Reiff** - **[benreiff](https://github.com/benreiff "GitHub for Ben Reiff")**
-* **Chelsea Snedden** - **[chelseasnedden](https://github.com/chelseasnedden "GitHub for Chelsea Snedden")**
-* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776 "GitHub for Michael Davis")**
-* **Morgan Bricker** - **[bricker3k](https://github.com/benreiff "GitHub for Morgan Bricker")**
+* **Ben Reiff** - **[benreiff](https://github.com/benreiff "GitHub for Ben Reiff")**  Ben was the lead on data cleaning and GitHub
+* **Chelsea Snedden** - **[chelseasnedden](https://github.com/chelseasnedden "GitHub for Chelsea Snedden")**  Chelsea was the lead on Machine Learning
+* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776 "GitHub for Michael Davis")**  Michael was the lead on Tableau and project management
+* **Morgan Bricker** - **[bricker3k](https://github.com/benreiff "GitHub for Morgan Bricker")**  Morgan was the lead on HTML and CSS
 
 
 ## Acknowledgments
 
 * Data Source: [United States Department of Agriculture (USDA)](https://quickstats.nass.usda.gov/ "USDA Quickstats")
-* Data Source:
-* 
-* 
 * [Tableau](https://www.tableau.com/ "Tableau Homepage") was used to create the data visualizations.
+* [Seaborn](https://seaborn.pydata.org/ "Seaborn") was used to create machine learning plots.
+* [scikit-learn](https://scikit-learn.org/stable/ "scikit-learn") was used to create machine learning plots.
 * [Plotly.js documentation](https://plot.ly/javascript/ "Plot.ly") was used to help build the plots.
 * [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education "Butler University Executive Education program") and instructors for assistance.
 * Hat tip to Triology Education Services for providing the challenge guidelines.
