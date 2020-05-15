@@ -1,8 +1,8 @@
 # <p align="center">Do We Have a Plan BEE? :bee: Analyzing 30 Years of Honey Data</p>
 
 A data analysis attempting to explain a reduction in the bee population
-- insert image from website we create
 
+# <p align="center"> ![HTML CSS Code Screen Shot](images/website_screen_shot.jpeg) </p>
 
 ## Questions to Answer?
 * Over the last 30 years, is bee production increasing or decreasing?
@@ -57,7 +57,7 @@ A data analysis attempting to explain a reduction in the bee population
 
 ## Tableau
 - insert image
-# <p align="center"> ![HTML CSS Code Screen Shot](images\IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
 ## Deploy the site to go live
 - insert image
@@ -76,11 +76,13 @@ A data analysis attempting to explain a reduction in the bee population
 * HTML
 * CSS
 * Tableau
-* GitHub and GitHub Pages
-* for ML ??
-* 
-* 
-* 
+* GitHub
+* GitHub Pages
+* Seaborn
+* Photoshop
+* Adobe Illustrator
+* scikit-learn
+* matplotlib
 
 
 ## Authors
