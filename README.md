@@ -65,10 +65,10 @@ A data analysis attempting to explain a reduction in the bee population
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/GitHub_Pages_settings.JPG) </p>
 
+
 ## Conclusions
 - As almond production has gone up, honey production has gone down
 - As honey production has gone down, honey value has gone up
-
 
 
 - - -
