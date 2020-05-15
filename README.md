@@ -63,11 +63,11 @@ A data analysis attempting to explain a reduction in the bee population
 - If using linear regression, use lots of scatter plots and lines
 - Multi-regression (a lot vs. one)
 
-# <p align="center"> ![HTML CSS Code Screen Shot](images\Honey_Prod_LR.PNG) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Honey_Prod_LR.PNG) </p>
 
-# <p align="center"> ![HTML CSS Code Screen Shot](images\Bee_Colony_LR.PNG) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Bee_Colony_LR.PNG) </p>
 
-# <p align="center"> ![HTML CSS Code Screen Shot](images\Almond_LR.PNG) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Almond_LR.PNG) </p>
 
 
 ## Tableau
@@ -76,6 +76,7 @@ A data analysis attempting to explain a reduction in the bee population
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Top10HoneyProducingCounties.png) </p>
 
 ## Deploy the Site
 - A custom domain **[DoWeHaveAPlanBee.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
