@@ -8,7 +8,7 @@ A data analysis attempting to explain a reduction in the bee population
 - Over the last 30 years, is bee production increasing or decreasing?
 - Over the last 30 years, is the value of honey production increasing or decreasing?
 - What are the top honey producing states and counties?
-- What are the top honey producing counites in Indiana?
+- What are the top honey producing counties in Indiana?
 - Has almond acres bearings changed as honey production has changed?
 
 
@@ -18,6 +18,9 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## Data Sets to Collect (2017, 2012, 2007, 2002 - census years)
+- Data from the USGS is grouped into two programs, with the Census program being more robust:
+  - 1) Census - collected once every five years (2017, 2012, 2007, 2002)
+  - 2) Survey - collected every year since 1987.
 - Honey production by state, county, and Indiana county
 - Honey value by state, county, and Indiana county
 - Bee colony inventory by state, county, and Indiana county
