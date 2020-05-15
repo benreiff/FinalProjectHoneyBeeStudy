@@ -55,6 +55,15 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/HTMLCSSCodeScreenShot.jpeg) </p>
 
 
+## Tableau
+- A **[Tableau Story](https://public.tableau.com/profile/michael.davis5317#!/vizhome/Do_We_Have_A_Plan_Bee/HoneyStory?publish=yes)** was created that consists of nine different dashboards, which are all incorporated into one easy to understand story.
+- Our story is a combination of graphs, charts, and interactive maps.
+
+# <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
+
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Top10HoneyProducingCounties.png) </p>
+
+
 ## Machine Learning
 - Supervised vs unsupervised - why we choose one technique over the other?
 - Do not overfit or underfit the data
@@ -69,14 +78,6 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Almond_LR.PNG) </p>
 
-
-## Tableau
-- A **[Tableau Story](https://public.tableau.com/profile/michael.davis5317#!/vizhome/Do_We_Have_A_Plan_Bee/HoneyStory?publish=yes)** was created that consists of nine different dashboards, which are all incorporated into one easy to understand story.
-- Our story is a combination of graphs, charts, and interactive maps.
-
-# <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
-
-# <p align="center"> ![HTML CSS Code Screen Shot](images/Top10HoneyProducingCounties.png) </p>
 
 ## Deploy the Site
 - A custom domain **[DoWeHaveAPlanBee.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
