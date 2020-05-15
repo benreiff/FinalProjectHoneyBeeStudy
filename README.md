@@ -117,6 +117,7 @@ About Training and Testing:
 - matplotlib
 - Pandas
 - Python
+- Sass
 - scikit-learn
 - Seaborn
 - Tableau
