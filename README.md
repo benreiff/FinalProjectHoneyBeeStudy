@@ -44,8 +44,6 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 - Change in bee colony loss from
 - Change in acres bearing almonds
 
-- Coorelate almond production to decrease in bee production
-
 
 ## HTML / CSS
 - Utilizes Sass, a powerful professional grade CSS extension library. Sass allows for nesting, variables, and imports to create a neat and simple style sheet.
@@ -93,7 +91,9 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 - In 2019, Indiana ranked 31st in honey production.
 - From a high of 1.89 million pounds of honey produced in 1987, Indiana's honey production fell 73.7% in 
 2019 with just 495,000 pounds produced.
-- Almond bearing acres has increased every year since nationwide data started being collected in 2007.
+- Almond bearing acres have increased every year since nationwide data started being collected in 2007.
+- Our machine learning analysis proves that the value of honey production is increasing, but the growth has been slow.
+- Bee colonies are increasing slightly over time, but the growth has been nearly constant.
 
 
 - - -
