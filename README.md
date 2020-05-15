@@ -24,7 +24,7 @@ A data analysis attempting to explain a reduction in the bee population
 * Bee colony loss by state, county, and Indiana county
 * Acres bearing almonds by state
 
-# <p align="center"> ![HTML CSS Code Screen Shot]images/Honey production Pandas screenshot 1.JPG) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/HoneyProductionPandasScreenshot1.JPG) </p>
 
 ## **E**xtract**T**ransform**L**oad (ETL) the data
 - Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
