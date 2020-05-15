@@ -20,9 +20,9 @@ A data analysis attempting to explain a reduction in the bee population
 ## Data Sets to Collect (2017, 2012, 2007, 2002 - census years)
 - Data from the USGS is grouped into two programs, with the Census program being more robust:
     <ol start="1">
-    <li>Census - collected once every five years (2017, 2012, 2007, 2002)</li>
-    <li>Survey - collected every year since 1987.</li>
-    </ol>  
+        <li>Census - collected once every five years (2017, 2012, 2007, 2002)</li>
+        <li>Survey - collected every year since 1987.</li>
+    </ol>
 
 - Honey production by state, county, and Indiana county
 - Honey value by state, county, and Indiana county
@@ -34,7 +34,7 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## **E**xtract**T**ransform**L**oad (ETL) the data
-- Utilizing Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
+- Within Jupyter Notebook/Lab, utilize pandas to load and clean USDA honey data.
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/ETL_image.png) </p>
 
@@ -67,13 +67,14 @@ A data analysis attempting to explain a reduction in the bee population
 
 
 ## Tableau
-- A ![Tableau Story](https://public.tableau.com/profile/michael.davis5317#!/vizhome/Do_We_Have_A_Plan_Bee/HoneyStory?publish=yes) was created that consists of nine different dashboards, which are all incorporated into one easy to understand story.
+- A **![Tableau Story](https://public.tableau.com/profile/michael.davis5317#!/vizhome/Do_We_Have_A_Plan_Bee/HoneyStory?publish=yes)** was created that consists of nine different dashboards, which are all incorporated into one easy to understand story.
 - Our story is a combination of graphs, charts, and interactive maps.
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
 
 ## Deploy the Site to Go Live
+- A custom domain **![DoWeHaveAPlan.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/GitHub_Pages_settings.JPG) </p>
 
