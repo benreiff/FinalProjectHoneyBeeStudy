@@ -1,6 +1,6 @@
 # <p align="center">Do We Have a Plan BEE? :bee: Analyzing 30 Years of Honey Data</p>
 
-A data analysis attempting to explain a reduction in the bee population
+A data analysis attempting to explain a reduction in the U.S. bee population
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/website_screen_shot.jpeg) </p>
 
