@@ -119,7 +119,6 @@ About Training and Testing:
 - Python
 - Sass
 - scikit-learn
-- Seaborn
 - Tableau
 
 
