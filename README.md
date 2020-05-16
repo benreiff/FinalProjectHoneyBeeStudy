@@ -5,7 +5,7 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/website_screen_shot.jpeg) </p>
 
 ## Questions to Answer?
-- Over the last 30 years, is bee production increasing or decreasing?
+- Over the last 30 years, is honey production increasing or decreasing?
 - Over the last 30 years, is the value of honey increasing or decreasing?
 - What are the top honey producing states and counties?
 - What are the top honey producing counties in Indiana?
