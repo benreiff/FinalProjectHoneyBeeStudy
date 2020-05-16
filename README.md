@@ -7,9 +7,9 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 ## Questions to Answer?
 - Over the last 30 years, is honey production increasing or decreasing?
 - Over the last 30 years, is the value of honey increasing or decreasing?
+- Has almond acres bearings changed as honey production has changed?
 - What are the top honey producing states and counties?
 - What are the top honey producing counties in Indiana?
-- Has almond acres bearings changed as honey production has changed?
 - What is the future outlook for bee colonies in the United States based on Year?
 - What is the future outlook for almond production in the United States?
 - What is the financial future of honey?
