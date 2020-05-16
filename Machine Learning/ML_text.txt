@@ -1,0 +1,86 @@
+Machine Learning for Honey, Bee Colonies, and Almonds!
+We chose to perform a Linear Regression analysis on our datasets.
+
+    *Linear Regression can show the relationship between variables(independent and dependent) and allows for forecasting the future, given those trends.
+    *Linear Regression calculates a prediction value based on independent variables and is the most common form of machine learning.
+
+We will be looking at:
+
+    *Correlation Coefficient- a measure that determines the degree to which the movement of our two variables will be associated
+    *Mean Squared Error- the average squared difference between the estimated values and the actual value
+    *Coefficient of Determination (R^2)- how differences in one variable can be explained by a difference in the second variable
+
+This notebook incorporates elements from Scikit Machine Learning Documentation, Homemade Machine Learning Repository, and Sklearn Multiple Linear Regression.
+About Training and Testing:
+
+    *Training data is used for training of our linear model to form an accurate regressive analysis.
+    *Testing data will be used for validating our model.
+
+
+Questions Asked:
+`What is the Financial Future of Honey?`
+`What is the future outlook for Bee Colonies in the United States based on Year?`
+`What is the future outlook for Almond Production in the United States?`
+
+-------------------------------------------------------------------------------------------------------
+First Study: Analysis of Honey Production Survey Data, in Dollars
+---
+Question to Answer: `What is the Financial Future of Honey?`
+---
+Results:
+Coefficients: 
+ [[262504.98997018]]
+**********************
+Mean squared error: 14775623184628.98
+**********************
+Coefficient of determination(R^2): -0.12
+**********************
+Conclusions:
+    Because there is a Coefficient, there IS a statisitcally significant relationship. The coefficient is positive, so the amount of honey produced is slowly increasing.
+    The Coefficient of Determination is extremely close to zero. This means that there is little benefit no benefit is gained by doing regressive modeling on the values of Honey as they appear to have remained constant throughout the duration of the survey.
+    The MSE is large, which means that that the data values are dispersed widely around the trend line.
+    Answer to Question: Honey Production is increasing but the growth has been slow.
+-------------------------------------------------------------------------------------------------------
+Second Study: Historical Survey Results for Bee Colonies
+---
+Question to Answer: `What is the future outlook for Bee Colonies in the United States based on Year?`
+---
+Results:
+Coefficients: 
+ [[212.1805977]]
+**********************
+Mean squared error: 8151205039.29
+**********************
+Coefficient of determination(R^2): -0.01
+**********************
+Conclusions:
+
+    Because there is a coefficient, there IS a statisitcally significant relationship. The coefficient is positive, so the amount of bee colonies is slowly increasing.
+    The Coefficient of Determination is extremely close to zero. This means that there is little benefit no benefit is gained by doing regressive modeling on these colonies as they appear to have remained constant throughout the duration of the survey.
+    The MSE is large, which means that that the data values are dispersed widely around the trend line.
+    Answer to Question: Bee Colonies are increasing slightly over time but the growth has been nearly constant.
+
+-------------------------------------------------------------------------------------------------------
+Third Study: Historical Survey Results for Acres Bearing Almonds
+---
+Question to Answer: `What is the future outlook for Almond Production in the United States?`
+---
+Results: 
+Coefficients: 
+ [[7748.47130469]]
+**********************
+Mean squared error: 480582848166.76
+**********************
+Coefficient of determination(R^2): -43.76
+**********************
+Conclusions:
+
+    Because there is a Coefficient, there IS a statisitcally significant relationship. The coefficient is positive, so the amount acres bearing almonds is increasing.
+    The Coefficient of Determination is very far from zero. This means that there is a benefit to doing regressive modeling on these acres as they appear to be increasing at a much faster pace than the other two regressive models.
+    The MSE is large, which means that that the data values are dispersed widely around the trend line.
+    Answer to Question: Almond Production is increasing and and the growth has been faster, based on the slope of the trend line.
+-------------------------------------------------------------------------------------------------------
+
+
+
+

@@ -9,7 +9,14 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 - Over the last 30 years, is the value of honey production increasing or decreasing?
 - What are the top honey producing states and counties?
 - What are the top honey producing counties in Indiana?
+<<<<<<< HEAD
 - How have acres bearing almonds changed as honey production has changed?
+=======
+- Has almond acres bearings changed as honey production has changed?
+- What is the future outlook for bee colonies in the United States based on Year?
+- What is the future outlook for almond production in the United States?
+- What is the financial future of honey?
+>>>>>>> a5c430e6891935b45435a976b57ed09b8d40ae5f
 
 
 ## Data Sets to Collect
@@ -44,8 +51,11 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 - Change in bee colony loss from
 - Change in acres bearing almonds
 
+<<<<<<< HEAD
 - Correlate almond production to decrease in honey production
 
+=======
+>>>>>>> a5c430e6891935b45435a976b57ed09b8d40ae5f
 
 ## HTML / CSS
 - Utilizes Sass, a powerful professional grade CSS extension library. Sass allows for nesting, variables and imports to create a neat and simple style sheet.
@@ -55,6 +65,7 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/HTMLCSSCodeScreenShot.jpeg) </p>
 
 
+<<<<<<< HEAD
 ## Machine Learning
 - Supervised vs unsupervised - why did we choose one technique over the other?
 - Do not overfit or underfit the data
@@ -70,6 +81,8 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Almond_LR.PNG) </p>
 
 
+=======
+>>>>>>> a5c430e6891935b45435a976b57ed09b8d40ae5f
 ## Tableau
 - A **[Tableau Story](https://public.tableau.com/profile/michael.davis5317#!/vizhome/Do_We_Have_A_Plan_Bee/HoneyStory?publish=yes)** was created consisting of nine total dashboards, which are all incorporated into one easy to understand story.
 - Our story is a combination of graphs, charts, and interactive maps.
@@ -77,6 +90,28 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 # <p align="center"> ![HTML CSS Code Screen Shot](images/IndianaCountyHoneyProduction4YearMapComparisonImage.png) </p>
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/Top10HoneyProducingCounties.png) </p>
+
+
+## Machine Learning
+- We chose to perform a linear regression analysis on our datasets.
+- Linear regression can show the relationship between variables (independent and dependent) and allows for forecasting the future, given those trends.
+- Linear regression calculates a prediction value based on independent variables and is the most common form of machine learning.
+
+- We will be looking at:
+  - Correlation Coefficient - a measure that determines the degree to which the movement of our two variables will be associated
+  - Mean Squared Error - the average squared difference between the estimated values and the actual value
+  - Coefficient of Determination (R^2) - how differences in one variable can be explained by a difference in the second variable
+
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Honey_LR.PNG) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Colony_LR.PNG) </p>
+# <p align="center"> ![HTML CSS Code Screen Shot](images/Almond_LR.PNG) </p>
+
+This notebook incorporates elements from Scikit Machine Learning documentation, Homemade Machine Learning Repository, and Sklearn Multiple Linear Regression.
+
+About Training and Testing:
+  - Training data is used for training of our linear model to form an accurate regressive analysis.
+  - Testing data will be used for validating our model.
+
 
 ## Deploy the Site
 - A custom domain **[DoWeHaveAPlanBee.com](https://www.dowehaveaplanbee.com/)** was purchased and GitHub Pages was used to deploy the live site.
@@ -93,6 +128,11 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 - From a high of 1.89 million pounds of honey produced in 1987, Indiana's honey production fell 73.7% in 
 2019 with just 495,000 pounds produced.
 - Almond bearing acres have increased every year since nationwide data started being collected in 2007.
+<<<<<<< HEAD
+=======
+- Our machine learning analysis proves that the value of honey production is increasing, but the growth has been slow.
+- Bee colonies are increasing slightly over time, but the growth has been nearly constant.
+>>>>>>> a5c430e6891935b45435a976b57ed09b8d40ae5f
 
 
 - - -
@@ -107,6 +147,7 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 - matplotlib
 - Pandas
 - Python
+- Sass
 - scikit-learn
 - Seaborn
 - Tableau
