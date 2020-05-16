@@ -7,7 +7,7 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 ## Questions to Answer?
 - Over the last 30 years, is honey production increasing or decreasing?
 - Over the last 30 years, is the value of honey increasing or decreasing?
-- Has almond acres bearings changed as honey production has changed?
+- Have acres bearing almonds changed as honey production has changed?
 - What are the top honey producing states and counties?
 - What are the top honey producing counties in Indiana?
 - What is the future outlook for bee colonies in the United States based on Year?
@@ -19,7 +19,7 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 
 # <p align="center"> ![HTML CSS Code Screen Shot](images/USDAscreenShot.png) </p>
 
-- Data from the USGS is grouped into two programs, with the Census program being more robust:
+- Data from the USDA is grouped into two programs, with the Census program being more robust:
     <ol start="1">
         <li>Census - collected once every five years (2017, 2012, 2007, 2002).</li>
         <li>Survey - collected every year since 1987.</li>
@@ -100,7 +100,7 @@ About Training and Testing:
 - In 2019, Indiana ranked 31st in honey production.
 - From a high of 1.89 million pounds of honey produced in 1987, Indiana's honey production has fallen 73.7% in 
 2019 with just 495,000 pounds produced.
-- Almond bearing acres have increased every year since nationwide data started being collected in 2007.
+- Acres bearing almonds have increased every year since nationwide data started being collected in 2007.
 - Our machine learning analysis proves that the value of honey production is increasing, but the growth has been slow.
 - Bee colonies are increasing slightly over time, but the growth has been nearly constant.
 
