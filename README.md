@@ -42,9 +42,9 @@ A data analysis attempting to explain a reduction in the U.S. bee population
 
 ## Analysis to Run
 - Change in honey production by state
-- Change in honey value by state from
-- Change in bee colony inventory from
-- Change in bee colony loss from
+- Change in honey value by state from 1987 to 2019
+- Change in bee colony inventory from 1987 to 2019
+- Change in bee colony loss from 1987 to 2019
 - Change in acres bearing almonds
 
 
