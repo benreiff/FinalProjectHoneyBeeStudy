@@ -331,6 +331,34 @@ body {
   .card__price-value {
     font-size: 6rem;
     font-weight: 100; }
+  @media only screen and (max-width: 56.25em), only screen and (hover: none) {
+    .card {
+      height: auto;
+      border-radius: 3px;
+      background-color: #fff;
+      box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15); }
+      .card__side {
+        height: auto;
+        position: relative;
+        box-shadow: none; }
+        .card__side--back {
+          transform: rotateY(0);
+          clip-path: polygon(0 15%, 100% 0, 100% 100%, 0% 100%); }
+      .card:hover .card__side--front {
+        transform: rotateY(0); }
+      .card__details {
+        padding: 1rem 3rem; }
+      .card__cta {
+        position: relative;
+        top: 0%;
+        left: 0;
+        transform: translate(0);
+        width: 100%;
+        padding: 7rem 4rem 4rem 4rem; }
+      .card__price-box {
+        margin-bottom: 3rem; }
+      .card__price-value {
+        font-size: 4rem; } }
 
 .composition {
   position: relative; }
@@ -378,24 +406,23 @@ body {
 
 .feature-box {
   background-color: rgba(255, 255, 255, 0.8);
-  font-size: 2rem;
-  padding: 2rem;
+  font-size: 1.5rem;
+  padding: 2.5rem;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 3px;
   box-shadow: 0 1.5rem 2rem rgba(0, 0, 0, 0.15); }
   .feature-box:hover {
     transform: translateY(-1.5rem) scale(1.03); }
 
-.icon-176 {
-  font-size: 48px;
-  margin-bottom: 0.5rem;
-  display: inline-block;
-  background-image: linear-gradient(to right, #7ed56f, #28b485);
-  -webkit-background-clip: text;
-  color: transparent; }
+.icon {
+  padding-bottom: 7px; }
+
+.heading-tertiary {
+  padding-top: 5px;
+  color: #55c57a; }
 
 .form__group:not(:last-child) {
-  margin-bottom: 10px; }
+  margin-bottom: .8rem; }
 
 .form__input {
   font-size: 1.5rem;
@@ -471,44 +498,59 @@ body {
   opacity: 1; }
 
 .popup {
-  height: 200vh;
+  height: 100vh;
   width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
   position: fixed;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.8);
   z-index: 9999;
-  display: none; }
-  .popup__content {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 75%;
-    height: 50rem;
-    background-color: #fff;
-    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
-    overflow: hidden; }
-  .popup__close:link, .popup:visited {
-    color: #777;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s; }
+  .popup:target {
+    opacity: 1;
+    visibility: visible; }
+  .popup__close:link, .popup__close:visited {
+    color: #55c57a;
     position: absolute;
     top: 2.5rem;
     right: 2.5rem;
     font-size: 3rem;
     text-decoration: none;
     display: inline-block;
-    -webkit-transition: all .2s;
-    transition: all .2s;
+    transition: all 0.2s;
     line-height: 1; }
-  .popup::after, .popup::before {
-    margin: 0;
-    padding: 0;
-    -webkit-box-sizing: inherit;
-    box-sizing: inherit; }
-  .popup__text {
-    font-size: 1.4rem;
-    margin-bottom: 4rem;
-    hyphens: auto; }
+    .popup__close:link:hover, .popup__close:visited:hover {
+      color: #28b485; }
+  .popup__icon {
+    padding-left: 14px; }
+  .popup__content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+    background-color: #fff;
+    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    display: table;
+    overflow: hidden; }
+  .popup__details {
+    padding: 1rem;
+    background-color: #fff;
+    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+    border-radius: 3px; }
+    .popup__details ul {
+      list-style: none;
+      width: 80%;
+      margin: 0 auto; }
+      .popup__details ul li {
+        text-align: center;
+        font-size: 1.5rem;
+        padding: 1rem; }
+        .popup__details ul li:not(:last-child) {
+          border-bottom: 2px solid #eee; }
 
 .story {
   width: 75%;
@@ -516,7 +558,7 @@ body {
   box-shadow: 0 3rem 6rem rgba(0, 0, 0, 0.1);
   background-color: rgba(255, 255, 255, 0.6);
   border-radius: 3px;
-  padding: 6rem;
+  padding: 5rem;
   padding-left: 9rem;
   font-size: 1.6rem;
   transform: skewX(-12deg); }
@@ -709,7 +751,7 @@ body {
   .header__text-box {
     position: absolute;
     top: 35%;
-    left: 25%;
+    left: 14.5%;
     text-align: center; }
 
 .navigation__checkbox {

@@ -78,12 +78,12 @@
   &:hover {
     background-color: $color-primary;
     color: $color-white;
-    box-shadow: 0 1rem 2rem ($color-black, 0.15);
+    box-shadow: 0 1rem 2rem ($color-black, .15);
     transform: translateY(-2px);
   }
 
   &:active {
-    box-shadow: 0 1rem 2rem ($color-black, 0.15);
+    box-shadow: 0 1rem 2rem ($color-black, .15);
     transform: translateY(-2px);
   }
 }
